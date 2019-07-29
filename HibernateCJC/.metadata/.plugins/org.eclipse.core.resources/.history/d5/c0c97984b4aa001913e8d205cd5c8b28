@@ -1,0 +1,16 @@
+package com.dao;
+
+import java.util.List;
+
+import com.model.Employee;
+
+public interface DaoInterface 
+{
+	
+	public int RegisterData(Employee e);
+	
+	int ValidUser(String un,String ps);
+	//public void saveData(Employee e);
+	List<Employee> getAllRecord();
+	
+}

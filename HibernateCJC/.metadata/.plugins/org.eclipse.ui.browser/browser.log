@@ -1,0 +1,120 @@
+
+Sep 06, 2018 18:14:22.14 NEW SESSION
+Sep 06, 2018 18:14:22.14 1536237862138	addons.webextension.jid1-i6dUGvCrz2WZu8@jetpack	WARN	Please specify whether you want browser_style or not in your browser_action options.
+Sep 06, 2018 18:14:22.38 1536237862386	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+Sep 06, 2018 18:14:22.48 1536237862480	addons.webextension.firefox@ghostery.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+Sep 06, 2018 18:14:22.51 1536237862514	addons.webextension.helper-sig@savefrom.net	WARN	Please specify whether you want browser_style or not in your browser_action options.
+Sep 06, 2018 18:14:22.54 Extension error: TypeError: command.suggested_key is null chrome://browser/content/ext-commands.js 79
+Sep 06, 2018 18:14:22.54 [[Exception stack
+Sep 06, 2018 18:14:22.55 loadCommandsFromManifest@chrome://browser/content/ext-commands.js:79:11
+Sep 06, 2018 18:14:22.55 CommandList@chrome://browser/content/ext-commands.js:24:19
+Sep 06, 2018 18:14:22.55 @chrome://browser/content/ext-commands.js:222:30
+Sep 06, 2018 18:14:22.55 runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:71:14
+Sep 06, 2018 18:14:22.55 emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+Sep 06, 2018 18:14:22.55 emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+Sep 06, 2018 18:14:22.55 runManifest@resource://gre/modules/Extension.jsm:733:23
+Sep 06, 2018 18:14:22.55 startup/<@resource://gre/modules/Extension.jsm:813:14
+Sep 06, 2018 18:14:22.55 Current stack
+Sep 06, 2018 18:14:22.55 runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:73:129
+Sep 06, 2018 18:14:22.55 emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+Sep 06, 2018 18:14:22.55 emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+Sep 06, 2018 18:14:22.55 runManifest@resource://gre/modules/Extension.jsm:733:23
+Sep 06, 2018 18:14:22.55 startup/<@resource://gre/modules/Extension.jsm:813:14
+Sep 06, 2018 18:14:22.55 ]]
+Sep 06, 2018 18:14:27.69 console.error: PushService: 
+Sep 06, 2018 18:14:27.69   stateChangeProcessEnqueue: Error transitioning state
+Sep 06, 2018 18:14:27.69   UnknownError
+Sep 06, 2018 23:06:58.59 windows.onRemoved event fired after context unloaded.
+Sep 06, 2018 23:06:58.59 windows.onRemoved event fired after context unloaded.
+Sep 06, 2018 23:06:58.60 Promise rejected after context unloaded: Message manager disconnected
+Sep 06, 2018 23:06:58.95 [Child 9132] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+Sep 06, 2018 23:06:58.95 [Child 9132] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+Sep 06, 2018 23:07:48.78 1536255468782	addons.webextension.jid1-i6dUGvCrz2WZu8@jetpack	WARN	Please specify whether you want browser_style or not in your browser_action options.
+Sep 06, 2018 23:07:48.87 1536255468872	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+Sep 06, 2018 23:07:48.93 1536255468928	addons.webextension.firefox@ghostery.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+Sep 06, 2018 23:07:48.94 1536255468944	addons.webextension.helper-sig@savefrom.net	WARN	Please specify whether you want browser_style or not in your browser_action options.
+Sep 06, 2018 23:07:48.96 Extension error: TypeError: command.suggested_key is null chrome://browser/content/ext-commands.js 79
+Sep 06, 2018 23:07:48.96 [[Exception stack
+Sep 06, 2018 23:07:48.96 loadCommandsFromManifest@chrome://browser/content/ext-commands.js:79:11
+Sep 06, 2018 23:07:48.96 CommandList@chrome://browser/content/ext-commands.js:24:19
+Sep 06, 2018 23:07:48.96 @chrome://browser/content/ext-commands.js:222:30
+Sep 06, 2018 23:07:48.96 runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:71:14
+Sep 06, 2018 23:07:48.96 emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+Sep 06, 2018 23:07:48.96 emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+Sep 06, 2018 23:07:48.96 runManifest@resource://gre/modules/Extension.jsm:733:23
+Sep 06, 2018 23:07:48.96 startup/<@resource://gre/modules/Extension.jsm:813:14
+Sep 06, 2018 23:07:48.96 Current stack
+Sep 06, 2018 23:07:48.96 runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:73:129
+Sep 06, 2018 23:07:48.96 emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+Sep 06, 2018 23:07:48.96 emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+Sep 06, 2018 23:07:48.96 runManifest@resource://gre/modules/Extension.jsm:733:23
+Sep 06, 2018 23:07:48.96 startup/<@resource://gre/modules/Extension.jsm:813:14
+Sep 06, 2018 23:07:48.96 ]]
+Sep 06, 2018 23:07:50.90 console.error: PushService: 
+Sep 06, 2018 23:07:50.90   stateChangeProcessEnqueue: Error transitioning state
+Sep 06, 2018 23:07:50.90   UnknownError
+Sep 06, 2018 23:08:30.47 Promise rejected after context unloaded: Message manager disconnected
+Sep 06, 2018 23:08:30.49 windows.onRemoved event fired after context unloaded.
+Sep 06, 2018 23:08:30.49 windows.onRemoved event fired after context unloaded.
+Sep 06, 2018 23:08:30.54 [Child 5744] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+Sep 06, 2018 23:09:10.17 1536255550178	addons.webextension.jid1-i6dUGvCrz2WZu8@jetpack	WARN	Please specify whether you want browser_style or not in your browser_action options.
+Sep 06, 2018 23:09:10.26 1536255550268	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+Sep 06, 2018 23:09:10.30 1536255550308	addons.webextension.firefox@ghostery.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+Sep 06, 2018 23:09:10.32 1536255550322	addons.webextension.helper-sig@savefrom.net	WARN	Please specify whether you want browser_style or not in your browser_action options.
+Sep 06, 2018 23:09:10.33 Extension error: TypeError: command.suggested_key is null chrome://browser/content/ext-commands.js 79
+Sep 06, 2018 23:09:10.33 [[Exception stack
+Sep 06, 2018 23:09:10.33 loadCommandsFromManifest@chrome://browser/content/ext-commands.js:79:11
+Sep 06, 2018 23:09:10.33 CommandList@chrome://browser/content/ext-commands.js:24:19
+Sep 06, 2018 23:09:10.33 @chrome://browser/content/ext-commands.js:222:30
+Sep 06, 2018 23:09:10.33 runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:71:14
+Sep 06, 2018 23:09:10.33 emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+Sep 06, 2018 23:09:10.33 emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+Sep 06, 2018 23:09:10.33 runManifest@resource://gre/modules/Extension.jsm:733:23
+Sep 06, 2018 23:09:10.33 startup/<@resource://gre/modules/Extension.jsm:813:14
+Sep 06, 2018 23:09:10.33 Current stack
+Sep 06, 2018 23:09:10.33 runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:73:129
+Sep 06, 2018 23:09:10.33 emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+Sep 06, 2018 23:09:10.33 emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+Sep 06, 2018 23:09:10.33 runManifest@resource://gre/modules/Extension.jsm:733:23
+Sep 06, 2018 23:09:10.33 startup/<@resource://gre/modules/Extension.jsm:813:14
+Sep 06, 2018 23:09:10.33 ]]
+Sep 06, 2018 23:09:12.20 console.error: PushService: 
+Sep 06, 2018 23:09:12.20   stateChangeProcessEnqueue: Error transitioning state
+Sep 06, 2018 23:09:12.20   UnknownError
+
+Sep 07, 2018 13:46:53.53 NEW SESSION
+Sep 07, 2018 13:46:53.58 Unable to read VR Path Registry from C:\Users\Pandurang Giram\AppData\Local\openvr\openvrpaths.vrpath
+Sep 07, 2018 13:46:53.60 [Parent 4080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Sep 07, 2018 13:46:53.60 Unable to read VR Path Registry from C:\Users\Pandurang Giram\AppData\Local\openvr\openvrpaths.vrpath
+Sep 07, 2018 13:46:53.60 [Child 7944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+Sep 25, 2018 15:51:23.78 NEW SESSION
+Sep 25, 2018 15:51:23.78 Unable to read VR Path Registry from C:\Users\Pandurang Giram\AppData\Local\openvr\openvrpaths.vrpath
+Sep 25, 2018 15:51:23.82 [Child 6864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Sep 25, 2018 15:51:23.83 Unable to read VR Path Registry from C:\Users\Pandurang Giram\AppData\Local\openvr\openvrpaths.vrpath
+Sep 25, 2018 15:51:23.83 [Child 7712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Sep 25, 2018 15:51:23.83 [Child 7712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Sep 25, 2018 15:51:23.83 Unable to read VR Path Registry from C:\Users\Pandurang Giram\AppData\Local\openvr\openvrpaths.vrpath
+Sep 25, 2018 15:51:23.83 [Child 4088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Sep 25, 2018 15:51:23.83 [Child 4088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Sep 25, 2018 15:51:24.14 Unable to read VR Path Registry from C:\Users\Pandurang Giram\AppData\Local\openvr\openvrpaths.vrpath
+Sep 25, 2018 15:51:24.14 [GPU 5412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Sep 25, 2018 15:51:24.18 
+Sep 25, 2018 15:51:24.18 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+Sep 25, 2018 15:51:24.18 
+Sep 25, 2018 15:51:24.33 Unable to read VR Path Registry from C:\Users\Pandurang Giram\AppData\Local\openvr\openvrpaths.vrpath
+Sep 25, 2018 16:25:37.04 Unable to read VR Path Registry from C:\Users\Pandurang Giram\AppData\Local\openvr\openvrpaths.vrpath
+Sep 25, 2018 16:25:37.04 [Parent 2216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Sep 25, 2018 16:25:37.04 Unable to read VR Path Registry from C:\Users\Pandurang Giram\AppData\Local\openvr\openvrpaths.vrpath
+Sep 25, 2018 16:25:37.04 [Child 3612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Sep 25, 2018 16:25:37.04 [Child 3612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Sep 25, 2018 16:35:25.99 Unable to read VR Path Registry from C:\Users\Pandurang Giram\AppData\Local\openvr\openvrpaths.vrpath
+Sep 25, 2018 16:35:25.99 [Child 2096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Sep 25, 2018 16:35:25.99 [Child 2096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+Jul 20, 2019 10:46:08.25 NEW SESSION
+Jul 20, 2019 10:46:08.26 [6992:5048:0720/104608.257:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 20, 2019 10:46:36.09 [6992:5048:0720/104636.094:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 20, 2019 10:47:24.19 [6992:5048:0720/104724.199:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 20, 2019 10:49:05.44 [6992:5048:0720/104905.447:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jul 20, 2019 10:52:26.30 [6992:5048:0720/105226.304:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.

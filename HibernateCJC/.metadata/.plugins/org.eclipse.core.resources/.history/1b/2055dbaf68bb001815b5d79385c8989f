@@ -1,0 +1,13 @@
+package com.default_inheritance;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="cjc_akurdi")
+public class CjcAkurdi 
+{
+
+	private String weekend;
+	
+}

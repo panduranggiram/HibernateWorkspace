@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HibernateUtil.java&apos; to &apos;StoredProcedureMappingPhoneCount/src/com.storeprocedure&apos;&#x0D;&#x0A;- Original project: &apos;RelationshipHibernate&apos;&#x0D;&#x0A;- Destination element: &apos;StoredProcedureMappingPhoneCount/src/com.storeprocedure&apos;&#x0D;&#x0A;- Original element: &apos;com.model.HibernateUtil.java&apos;" description="Copy compilation unit" destination="=StoredProcedureMappingPhoneCount/src&lt;com.storeprocedure" element1="/src&lt;com.model{HibernateUtil.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1536748831732" units="1" version="1.0"/>
+</session>

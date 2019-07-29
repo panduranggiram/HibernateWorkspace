@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+D:\HibernateCJC\.metadata\.plugins\org.eclipse.jdt.core
+766284866.index

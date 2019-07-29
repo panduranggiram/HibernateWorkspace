@@ -1,0 +1,24 @@
+LexicalSortingAction.isChecked=true
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.hibernate.cfg.Configuration"><rhs name\="org.hibernate.cfg.Configuration"/></lhs><lhs name\="com.model.Student"><rhs name\="com.model.Student"/></lhs><lhs name\="org.hibernate.boot.MetadataSources"><rhs name\="org.hibernate.boot.MetadataSources"/></lhs><lhs name\="com.cjc.Student"><rhs name\="com.cjc.Student"/></lhs><lhs name\="com.cjc.Address"><rhs name\="com.cjc.Address"/></lhs><lhs name\="com.cjc.Test"><rhs name\="com.cjc.Test"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.util.Set"><rhs name\="java.util.HashSet"/></lhs><lhs name\="com.service.ServiceInterface"><rhs name\="com.serviceimplement.ServiceImple"/></lhs><lhs name\="com.dao.DaoInterface"><rhs name\="com.daoimple.DaoImple"/></lhs><lhs name\="com.OneToMany.Department"><rhs name\="com.OneToMany.Department"/></lhs><lhs name\="java.lang.Enum"><rhs name\="javax.persistence.ParameterMode"/><rhs name\="javax.persistence.InheritanceType"/><rhs name\="javax.persistence.GenerationType"/><rhs name\="javax.persistence.CascadeType"/></lhs><lhs name\="com.storeprocedure.Student"><rhs name\="com.storeprocedure.Student"/></lhs><lhs name\="com.storeprocedure.Phone"><rhs name\="com.storeprocedure.Phone"/></lhs><lhs name\="com.default_inheritance.Cjc"><rhs name\="com.default_inheritance.CjcAkurdi"/><rhs name\="com.default_inheritance.CjcKarvenagar"/></lhs><lhs name\="com.default_inheritance.CjcAkurdi"><rhs name\="com.default_inheritance.CjcAkurdi"/></lhs><lhs name\="com.default_inheritance.CjcKarvenagar"><rhs name\="com.default_inheritance.CjcKarvenagar"/></lhs><lhs name\="com.fetch_all.Employee"><rhs name\="com.fetch_all.Employee"/></lhs><lhs name\="com.fetch_name_salary.Employee"><rhs name\="com.fetch_name_salary.Employee"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.String"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.lang.Integer"/></lhs><lhs name\="com.fetch_from_two_table.Employee"><rhs name\="com.fetch_from_two_table.Employee"/></lhs><lhs name\="com.fetch_from_two_table.Department"><rhs name\="com.fetch_from_two_table.Department"/></lhs><lhs name\="com.model.Employee"><rhs name\="com.model.Employee"/></lhs><lhs name\="com.xyz.ids.Department"><rhs name\="com.xyz.ids.Department"/></lhs><lhs name\="com.model.Teacher"><rhs name\="com.model.Teacher"/></lhs></history>
+content_assist_number_of_computers=24
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+fontPropagated=true
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.formatterprofiles.version=12
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Courier New|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|49|Courier New;
+proposalOrderMigrated=true
+sourceHoverBackgroundColor=255,255,225
+spelling_locale_initialized=true
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

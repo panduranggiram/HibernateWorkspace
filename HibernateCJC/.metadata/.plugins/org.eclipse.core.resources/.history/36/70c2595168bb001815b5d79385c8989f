@@ -1,0 +1,14 @@
+package com.default_inheritance;
+
+import javax.persistence.MappedSuperclass;
+
+@MappedSuperclass
+public class Cjc 
+{
+
+	private int id;
+	private String sname;
+	private String cource;
+	
+	
+}

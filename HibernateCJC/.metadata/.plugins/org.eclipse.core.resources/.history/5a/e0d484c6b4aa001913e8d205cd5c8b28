@@ -1,0 +1,43 @@
+package com.controller;
+
+import java.io.IOException;
+import java.util.List;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.model.Employee;
+import com.service.ServiceInterface;
+import com.serviceimplement.ServiceImple;
+
+@WebServlet("/log")
+public class LoginServlet extends HttpServlet
+{
+	@Override
+	protected void service(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException 
+	{
+		
+		String un=req.getParameter("uname");
+		String ps=req.getParameter("pass");
+		
+		ServiceInterface si=new ServiceImple();
+		
+		int i=si.ValidUser(un, ps);
+		if(i==0)
+		{
+			req.setAttribute("msg","wrong input");
+			req.getRequestDispatcher("login.jsp").forward(req, res);
+		}
+		
+		else
+		{
+			List<Employee> emp=si.getAllRecord();
+			req.setAttribute("data", emp);
+			req.getRequestDispatcher("success.jsp").forward(req, res);
+			
+		}
+	}
+}

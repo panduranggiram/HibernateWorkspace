@@ -1,0 +1,32 @@
+package com.OneToMany;
+
+import org.hibernate.Session;
+
+public class Test 
+{
+	public static void main(String[] args) 
+	{
+		Session session=HibernateUtil.getSessionFacory().openSession();
+		
+		Employee e1=new Employee();
+				 e1.setFname("Pandurang");
+				 e1.setLname("Giram");
+				 e1.setDesignation("Student");
+				 e1.setDepartment(IT);
+				 
+		Employee e2=new Employee();
+				 e2.setFname("Nilesh");
+				 e2.setLname("Tammewar");
+				 e2.setDesignation("Manager");
+				 e2.setDepartment(IT);
+	
+				 
+				 Department d=new Department();
+				 			d.setDname("IT");
+				 			d.getSetemp().add(e1);
+				 			d.getSetemp().add(e2);
+				 				
+				 			session.save(d);
+				 			session.beginTransaction().commit();
+	}
+}

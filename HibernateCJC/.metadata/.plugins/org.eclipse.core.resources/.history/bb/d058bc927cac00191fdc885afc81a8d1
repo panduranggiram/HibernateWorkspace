@@ -1,0 +1,20 @@
+package com.model;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="teac_table")
+public class Teacher 
+{
+	@Id
+	private int id;
+	
+	@Column
+	private String name;
+	
+	
+
+}
